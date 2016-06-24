@@ -1,5 +1,5 @@
 #include <stdbool.h>
-#include "state_pattern.h"
+#include "cdplayer.h"
 
 static const State* pCurrentState;
 
